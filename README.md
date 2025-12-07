@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="YOUR_IMAGE_URL_HERE" alt="Your Banner Title" width="100%">
+</p>
 # Hey, I'm Parag Aggarwal 👋:
 I'm a Results-driven Software Developer specializing in React.js <br>and the MERN Stack.<br>💻 Proficient in JavaScript, React.js, Node.js, Redux/RTK Query, and <br>Postgres SQL.<br>📊 Experience building complex Data Visualization Tools (Vizta).<br>📦 Developed features to optimize shipment tracking and order<br> management for the (SureShip) logistics platform.<br>💡 Strong focus on clean, maintainable code and backend logic <br> optimization.<br>🤝 Currently working as a React.js Developer at Viz Labs <br> in Gurugram, Haryana.
 
